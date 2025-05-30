@@ -1,0 +1,39 @@
+TIR Masraf Takip Gizlilik Politikası
+Son Güncelleme: 30 Mayıs 2025
+
+Bu gizlilik politikası, ("Geliştirici" "Bünyamin UZEL") tarafından geliştirilen TIR Masraf Takip ("Uygulama") mobil uygulamasıyla bağlantılı olarak bilgilerin nasıl toplandığını, kullanıldığını ve paylaşıldığını açıklamaktadır.
+
+Bilgiler Nerede Saklanıyor?
+Yazdığınız bütün bilgiler (profiller, seferler, masraflar, hesaplamalar ve konum verileri dahil) SADECE kendi telefonunuzun veya tabletinizin yerel depolama alanında saklanır. Bu bilgiler internete veya herhangi bir sunucuya GÖNDERİLMEZ.
+Uygulamayı silerseniz, uygulama verilerini temizlerseniz veya cihazınız sıfırlanırsa/bozulursa, yerel depolamadaki tüm bilgileriniz KALICI OLARAK SİLİNİR. Verilerinizi kaybetmemek için düzenli olarak Ayarlar -> Veri Yönetimi menüsündeki yedekleme özelliğini kullanmak sizin sorumluluğunuzdadır.
+Bilgileri Paylaşma
+"Detaylı Rapor" sayfasındaki "Paylaş" butonunu kullanırsanız, oluşturulan rapor içeriği (sefer ve masraf bilgileriniz dahil) sizin seçtiğiniz başka uygulamalara (WhatsApp, E-posta vb.) gönderilir. Bu paylaşım sizin kontrolünüzdedir.
+Uygulama, rapor paylaşımı dışında verilerinizi otomatik olarak başka hiçbir yere göndermez.
+Toplanan Veriler ve Kullanım Amaçları
+Girdiğiniz plaka, sefer ismi, masraf açıklaması gibi bilgiler sadece uygulamanın temel çalışması için gereklidir ve cihazınızda yerel olarak saklanır.
+Konum Verileri (Zaman Çizelgesi Özelliği İçin):
+Uygulamanın "Zaman Çizelgesi" özelliğini sağlamak amacıyla, siz bir sefer başlattığınızda ve bu özellik aktifken, cihazınızın konum verilerini toplarız. Bu veriler şunları içerebilir:
+
+Kesin ve yaklaşık konum (enlem, boylam)
+Hız
+Zaman damgası
+Cihazın bulunduğu ülke bilgisi (mevcutsa)
+Konumla ilişkili olay türleri (örn: sefer başlangıcı, hareket başlangıcı, ülke değişikliği, periyodik güncellemeler)
+Arka Plan Konum Kullanımı: "Zaman Çizelgesi" özelliği, siz seferdeyken uygulamanın kesintisiz bir şekilde rota kaydı yapabilmesi ve farklı ülkelerde geçirdiğiniz süreleri doğru bir şekilde takip edebilmesi için, uygulama kapalıyken veya kullanımda değilken bile arka planda konum verilerinizi toplar. Bu, seferlerinizin ayrıntılı bir kaydını tutmanıza ve daha sonra bu bilgileri masraf takibi ve raporlama için kullanmanıza olanak tanır. Gelecekte bu verilerin bir harita üzerinde görselleştirilmesi planlanmaktadır.
+Toplanan tüm konum verileri, diğer verileriniz gibi SADECE kendi telefonunuzun veya tabletinizin yerel depolama alanında saklanır. Bu bilgiler internete veya herhangi bir sunucuya GÖNDERİLMEZ.
+Konum izinlerinizi istediğiniz zaman cihazınızın ayarlar menüsünden yönetebilirsiniz. Ancak, konum iznini kısıtlamanız "Zaman Çizelgesi" özelliğinin beklendiği gibi çalışmamasına veya hiç çalışmamasına neden olabilir.
+Uygulama, bunun dışında adınız, telefon numaranız gibi doğrudan tanımlayıcı diğer kişisel verilerinizi toplamaz veya istemez.
+Uygulama İzinleri
+Uygulamamızın belirli özelliklerinin çalışabilmesi için aşağıdaki izinlere ihtiyaç duyulmaktadır:
+
+Konum (ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION, ACCESS_BACKGROUND_LOCATION): "Zaman Çizelgesi" özelliği için sefer sırasında rotanızı kaydetmek, ülke değişikliklerini tespit etmek ve hızınızı belirlemek amacıyla kullanılır. Arka planda konum erişimi, uygulama kullanımda değilken veya kapalıyken bile bu takibin kesintisiz devam etmesi için gereklidir.
+İnternet (INTERNET): Uygulama içi bazı güncellemeler, yardım içerikleri veya gelecekte eklenebilecek harita gibi özellikler için gerekebilir (Not: Mevcut durumda kişisel verileriniz internete gönderilmez).
+Bildirimler (POST_NOTIFICATIONS): "Zaman Çizelgesi" özelliği aktifken bir ön plan servisi çalıştığını size bildirmek ve önemli uygulama uyarıları için kullanılır.
+Ön Plan Servisi (FOREGROUND_SERVICE, FOREGROUND_SERVICE_LOCATION): "Zaman Çizelgesi" özelliği için konum takibinin uygulama arka plandayken veya kapalıyken güvenilir bir şekilde devam etmesini sağlamak amacıyla kullanılır.
+Harici Depolama (WRITE_EXTERNAL_STORAGE - eski sürümler için): Veri yedekleme ve geri yükleme işlemleri için kullanılabilir. Android'in yeni sürümlerinde bu izin farklı yönetilmektedir.
+Sorumluluk Reddi ve Önemli Notlar
+Bu uygulama, masraflarınızı ve seferlerinizi takip etmenize yardımcı olmak amacıyla geliştirilmiş bir araçtır.
+Uygulamanın yaptığı hesaplamaların (harcırah, KM kazancı vb.) doğruluğu, sizin girdiğiniz verilerin (günlük harcırah miktarı, KM fiyatı, girilen gün sayısı, masraf tutarları vb.) doğruluğuna bağlıdır. Lütfen girdiğiniz verileri dikkatlice kontrol edin.
+Bu uygulama resmi bir muhasebe programı DEĞİLDİR ve resmi evrak niteliği taşımaz. Hesaplamalar sadece bilgi ve takip amaçlıdır. Resmi hesaplamalarınız ve beyanlarınız için lütfen şirketinizle veya muhasebecinizle görüşün. Uygulamadaki olası hesaplama hatalarından, veri kayıplarından veya yanlış anlaşılmalardan geliştirici sorumlu tutulamaz.
+Bizimle İletişime Geçin
+Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin: [bunyaminuzel@gmail.com https://github.com/bunyaminuzel/TIRMasrafTakipPrivacy.git]
