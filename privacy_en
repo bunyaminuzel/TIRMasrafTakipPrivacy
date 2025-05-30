@@ -1,0 +1,39 @@
+TIR Expense Tracker Privacy Policy
+Last Updated: May 30, 2025
+
+This privacy policy explains how ("Developer", "we", "us", or "our") collects, uses, and shares information in connection with the TIR Expense Tracker mobile application ("App").
+
+Where Is Information Stored?
+All information you enter (profiles, trips, expenses, calculations, including location data) is stored ONLY on your own phone's or tablet's local storage. This information is NOT SENT to the internet or any server.
+If you delete the application, clear application data, or if your device is reset/damaged, all your information in local storage will be PERMANENTLY DELETED. It is your responsibility to regularly use the backup feature in the Settings > Data Management menu to avoid data loss.
+Sharing Information
+If you use the "Share" button on the "Detailed Report" page, the generated report content (including your trip and expense information) is sent to other applications you choose (WhatsApp, E-mail, etc.). This sharing is under your control.
+The application does not automatically send your data anywhere else, apart from report sharing initiated by you.
+Data We Collect and How We Use It
+Information you enter, like plate numbers, trip names, and expense descriptions, is only necessary for the application's core functionality and is stored locally on your device.
+Location Data (For Timeline Feature):
+To provide the "Timeline" feature of the App, when you start a voyage and this feature is active, we collect your device's location data. This data may include:
+
+Precise and approximate location (latitude, longitude)
+Speed
+Timestamp
+Country information of the device (if available)
+Event types associated with the location (e.g., voyage start, movement start, country change, periodic updates)
+Background Location Usage: The "Timeline" feature collects your location data in the background, even when the app is closed or not in use, to ensure continuous route recording and accurate tracking of time spent in different countries while you are on a voyage. This allows you to maintain a detailed log of your trips and later use this information for expense tracking and reporting. It is planned to visualize this data on a map in the future.
+All collected location data, like your other data, is stored ONLY on your own phone's or tablet's local storage. This information is NOT SENT to the internet or any server.
+You can manage your location permissions at any time through your device's settings menu. However, restricting location permission may cause the "Timeline" feature to not function as expected or at all.
+The application does not otherwise collect or request other directly identifying personal data such as your name or phone number.
+Application Permissions
+Our application requires the following permissions for certain features to function:
+
+Location (ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION, ACCESS_BACKGROUND_LOCATION): Used for the "Timeline" feature to record your route, detect country changes, and determine your speed during a voyage. Background location access is necessary for this tracking to continue uninterrupted even when the app is not in use or closed.
+Internet (INTERNET): May be required for some in-app updates, help content, or future features like map integration (Note: Currently, your personal data is not sent to the internet).
+Notifications (POST_NOTIFICATIONS): Used to inform you that a foreground service is running when the "Timeline" feature is active and for important application alerts.
+Foreground Service (FOREGROUND_SERVICE, FOREGROUND_SERVICE_LOCATION): Used for the "Timeline" feature to ensure that location tracking continues reliably when the app is in the background or closed.
+External Storage (WRITE_EXTERNAL_STORAGE - for older versions): May be used for data backup and restore operations. This permission is managed differently in newer versions of Android.
+Disclaimer and Important Notes
+This application is a tool developed to help you track your expenses and trips.
+The accuracy of the calculations made by the application (per diem, KM earnings, etc.) depends on the accuracy of the data you enter (daily per diem amount, KM price, number of days entered, expense amounts, etc.). Please carefully check the data you enter.
+This application is NOT an official accounting program and does not qualify as official documentation. Calculations are for informational and tracking purposes only. For official calculations and declarations, please consult with your company or accountant. The developer cannot be held responsible for any potential calculation errors, data loss, or misunderstandings in the application.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us: [bunyaminuzel@gmail.com https://github.com/bunyaminuzel/TIRMasrafTakipPrivacy.git ]
